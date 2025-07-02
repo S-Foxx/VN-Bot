@@ -1,0 +1,435 @@
+2025-07-02 03:28:50,900 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-07-02 03:28:50,900 - __main__ - ERROR - Please set your Discord bot token: export DISCORD_BOT_TOKEN='your_token_here'
+2025-07-02 03:29:09,792 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-07-02 03:29:09,792 - __main__ - ERROR - Please set your Discord bot token: export DISCORD_BOT_TOKEN='your_token_here'
+2025-07-02 03:36:04,985 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:36:04,985 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 03:36:04,986 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-07-02 03:36:04,986 - discord.client - INFO - logging in using static token
+2025-07-02 03:36:05,043 - __main__ - ERROR - Error running bot: 429 Too Many Requests (error code: 0): <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Access denied | discord.com used Cloudflare to restrict access</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="p-0">
+      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+           <span data-translate="error">Error</span>
+           <span>1015</span>
+         </h1>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 958b18c77d07a59f &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2025-07-02 03:36:05 UTC</span>
+        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>
+      </header>
+
+      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+          <div id="what-happened-section" class="w-1/2 md:w-full">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+            <p>The owner of this website (discord.com) has banned you temporarily from accessing this website.</p>
+            
+              <p>Please see <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/" target="_blank">https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/</a> for more details.</p>
+            
+          </div>
+
+          
+      </section>
+
+      <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">958b18c77d07a59f</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">34.19.17.50</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'958b18c77d07a59f',t:'MTc1MTQyNzM2NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-07-02 03:36:05,162 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:36:05,162 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 03:36:05,163 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-07-02 03:36:05,163 - discord.client - INFO - logging in using static token
+2025-07-02 03:36:05,221 - __main__ - ERROR - Error running bot: 429 Too Many Requests (error code: 0): <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Access denied | discord.com used Cloudflare to restrict access</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="p-0">
+      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+           <span data-translate="error">Error</span>
+           <span>1015</span>
+         </h1>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 958b18c88a0d681e &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2025-07-02 03:36:05 UTC</span>
+        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>
+      </header>
+
+      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+          <div id="what-happened-section" class="w-1/2 md:w-full">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+            <p>The owner of this website (discord.com) has banned you temporarily from accessing this website.</p>
+            
+              <p>Please see <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/" target="_blank">https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/</a> for more details.</p>
+            
+          </div>
+
+          
+      </section>
+
+      <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">958b18c88a0d681e</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">34.19.17.50</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'958b18c88a0d681e',t:'MTc1MTQyNzM2NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-07-02 03:36:40,678 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:36:40,679 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 03:36:40,679 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-07-02 03:36:40,679 - discord.client - INFO - logging in using static token
+2025-07-02 03:36:40,724 - __main__ - ERROR - Error running bot: 429 Too Many Requests (error code: 0): <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Access denied | discord.com used Cloudflare to restrict access</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="p-0">
+      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+           <span data-translate="error">Error</span>
+           <span>1015</span>
+         </h1>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 958b19a67aec7610 &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2025-07-02 03:36:40 UTC</span>
+        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>
+      </header>
+
+      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+          <div id="what-happened-section" class="w-1/2 md:w-full">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+            <p>The owner of this website (discord.com) has banned you temporarily from accessing this website.</p>
+            
+              <p>Please see <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/" target="_blank">https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/</a> for more details.</p>
+            
+          </div>
+
+          
+      </section>
+
+      <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">958b19a67aec7610</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">34.19.17.50</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'958b19a67aec7610',t:'MTc1MTQyNzQwMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-07-02 03:47:57,702 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:47:57,705 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 03:47:57,709 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-07-02 03:47:57,709 - discord.client - INFO - logging in using static token
+2025-07-02 03:47:58,616 - __main__ - ERROR - Error running bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 03:48:41,605 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:48:41,606 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 03:48:41,607 - discord.client - INFO - logging in using static token
+2025-07-02 03:48:42,733 - __main__ - ERROR - Error running bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 04:16:03,557 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 04:16:03,560 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 04:16:03,561 - discord.client - INFO - logging in using static token
+2025-07-02 04:16:04,374 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d786029f00285fc05e4b7847416f8342).
+2025-07-02 04:16:06,382 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 04:16:06,389 - bot - INFO - Bot is in 0 guilds
+2025-07-02 04:16:48,092 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 04:16:48,092 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 04:16:48,092 - discord.client - INFO - logging in using static token
+2025-07-02 04:16:48,991 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cd00d084764ee703be00f411e32462ec).
+2025-07-02 04:16:50,994 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 04:16:50,996 - bot - INFO - Bot is in 0 guilds
+2025-07-02 04:31:12,610 - bot - INFO - Foxx joined voice channel: General
+2025-07-02 04:31:12,624 - bot - INFO - Stored original nickname for sabrefoxx: 'Foxx'
+2025-07-02 04:31:12,879 - bot - WARNING - No permission to change nickname for sabrefoxx
+2025-07-02 04:39:46,124 - bot - WARNING - No permission to restore nickname for sabrefoxx
+2025-07-02 04:39:48,513 - bot - INFO - Kafe Guardian joined voice channel: General
+2025-07-02 04:39:48,513 - bot - INFO - Stored original nickname for kafeguardian: 'Kafe Guardian'
+2025-07-02 04:39:48,801 - bot - INFO - Changed kafeguardian's nickname to 'Subject 032'
+2025-07-02 04:40:00,076 - bot - INFO - Restored kafeguardian's nickname to 'Kafe Guardian'
+2025-07-02 04:40:04,585 - bot - INFO - Kafe Guardian joined voice channel: General
+2025-07-02 04:40:04,585 - bot - INFO - Stored original nickname for kafeguardian: 'Kafe Guardian'
+2025-07-02 04:40:05,181 - bot - INFO - Changed kafeguardian's nickname to 'Subject 032'
+2025-07-02 04:40:24,406 - bot - INFO - Restored kafeguardian's nickname to 'Kafe Guardian'
+2025-07-02 04:40:25,844 - bot - INFO - Kafe Guardian joined voice channel: General
+2025-07-02 04:40:25,844 - bot - INFO - Stored original nickname for kafeguardian: 'Kafe Guardian'
+2025-07-02 04:40:26,093 - bot - INFO - Changed kafeguardian's nickname to 'Subject 032'
+2025-07-02 04:41:34,031 - bot - INFO - Restored kafeguardian's nickname to 'Kafe Guardian'
+2025-07-02 13:33:48,982 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 13:33:50,140 - bot - INFO - Database initialized successfully
+2025-07-02 13:33:50,140 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 13:33:50,140 - discord.client - INFO - logging in using static token
+2025-07-02 13:33:52,634 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 13:33:52,978 - bot - INFO - Database initialized successfully
+2025-07-02 13:33:52,979 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 13:33:52,981 - discord.client - INFO - logging in using static token
+2025-07-02 13:33:53,762 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e5998a530cb33b163584299d8f9fce09).
+2025-07-02 13:33:55,767 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 13:33:55,767 - bot - INFO - Bot is in 1 guilds
+2025-07-02 13:33:55,884 - bot - INFO - Registered guild: Cheon Bu (ID: 912121671815688243)
+2025-07-02 13:50:29,385 - bot - INFO - Kafe Guardian joined voice channel: General
+2025-07-02 13:50:29,387 - bot - INFO - Stored original nickname for kafeguardian: 'Kafe Guardian'
+2025-07-02 13:50:29,390 - bot - ERROR - Error generating nickname for guild 912121671815688243: (psycopg2.OperationalError) SSL connection has been closed unexpectedly
+
+[SQL: SELECT nicknames.id AS nicknames_id, nicknames.guild_id AS nicknames_guild_id, nicknames.nickname AS nicknames_nickname, nicknames.is_active AS nicknames_is_active, nicknames.created_at AS nicknames_created_at, nicknames.created_by AS nicknames_created_by 
+FROM nicknames 
+WHERE nicknames.guild_id = %(guild_id_1)s AND nicknames.is_active = true ORDER BY random() 
+ LIMIT %(param_1)s]
+[parameters: {'guild_id_1': 912121671815688243, 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 13:50:29,391 - bot - WARNING - No nicknames available for guild Cheon Bu
+2025-07-02 13:50:57,228 - bot - INFO - Restored kafeguardian's nickname to 'Kafe Guardian'
+2025-07-02 14:21:15,428 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 14:21:16,319 - bot - INFO - Database initialized successfully
+2025-07-02 14:21:16,321 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 14:21:16,327 - discord.client - INFO - logging in using static token
+2025-07-02 14:21:17,257 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b6019f02af320495f3cc04bc55a22969).
+2025-07-02 14:21:19,261 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 14:21:19,261 - bot - INFO - Bot is in 1 guilds
+2025-07-02 14:21:19,338 - bot - INFO - Registered guild: Cheon Bu (ID: 912121671815688243)
+2025-07-02 14:21:19,519 - bot - INFO - Synced 0 slash commands
+2025-07-02 14:32:20,442 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 14:32:21,216 - bot - INFO - Database initialized successfully
+2025-07-02 14:32:21,216 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 14:32:21,217 - discord.client - INFO - logging in using static token
+2025-07-02 14:32:21,889 - bot - INFO - Synced 0 slash commands
+2025-07-02 14:32:22,215 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 34b8a70ea48956c20acfdc20af06ab35).
+2025-07-02 14:32:24,219 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 14:32:24,219 - bot - INFO - Bot is in 1 guilds
+2025-07-02 14:32:24,288 - bot - INFO - Registered guild: Cheon Bu (ID: 912121671815688243)
+2025-07-02 14:39:48,679 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 14:39:49,423 - bot - INFO - Database initialized successfully
+2025-07-02 14:39:49,424 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 14:39:49,424 - discord.client - INFO - logging in using static token
+2025-07-02 14:39:50,387 - bot - INFO - Synced 5 slash commands
+2025-07-02 14:39:50,741 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 81f41e3c655e721af9a30a257e49740c).
+2025-07-02 14:39:52,746 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 14:39:52,746 - bot - INFO - Bot is in 1 guilds
+2025-07-02 14:39:52,812 - bot - INFO - Registered guild: Cheon Bu (ID: 912121671815688243)
+2025-07-02 14:54:27,811 - bot - ERROR - Failed to register new guild Cheon Bu: (psycopg2.OperationalError) SSL connection has been closed unexpectedly
+
+[SQL: SELECT guilds.id AS guilds_id, guilds.name AS guilds_name, guilds.owner_id AS guilds_owner_id, guilds.created_at AS guilds_created_at, guilds.updated_at AS guilds_updated_at 
+FROM guilds 
+WHERE guilds.id = %(id_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'id_1': 912121671815688243, 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 14:55:00,543 - discord.app_commands.tree - ERROR - Ignoring exception in command 'status'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 871, in _do_call
+    raise CommandSignatureMismatch(self) from None
+discord.app_commands.errors.CommandSignatureMismatch: The signature for command 'status' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2025-07-02 14:55:21,741 - discord.app_commands.tree - ERROR - Ignoring exception in command 'list_nicknames'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 871, in _do_call
+    raise CommandSignatureMismatch(self) from None
+discord.app_commands.errors.CommandSignatureMismatch: The signature for command 'list_nicknames' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2025-07-02 14:57:37,179 - discord.app_commands.tree - ERROR - Ignoring exception in command 'status'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 871, in _do_call
+    raise CommandSignatureMismatch(self) from None
+discord.app_commands.errors.CommandSignatureMismatch: The signature for command 'status' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2025-07-02 15:00:55,001 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 15:00:55,002 - discord.client - INFO - logging in using static token
+2025-07-02 15:00:55,920 - bot - INFO - Synced 6 slash commands
+2025-07-02 15:00:56,345 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fb61cbd6eb70691c585d3ac16f354df8).
+2025-07-02 15:00:58,356 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 15:00:58,356 - bot - INFO - Bot is in 1 guilds
+2025-07-02 15:00:58,430 - bot - INFO - Registered guild: Cheon Bu (ID: 912121671815688243)
+2025-07-02 15:03:23,200 - bot - INFO - Added nickname 'Baron' to guild Cheon Bu
+2025-07-02 15:03:43,165 - bot - INFO - Added nickname 'Muab-dib' to guild Cheon Bu
+2025-07-02 15:03:52,693 - bot - INFO - Added nickname 'Operator' to guild Cheon Bu
+2025-07-02 15:04:00,991 - bot - INFO - Added nickname 'Subject' to guild Cheon Bu
+2025-07-02 15:04:11,914 - bot - INFO - Added nickname 'Naib' to guild Cheon Bu
+2025-07-02 15:19:52,510 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 15:19:52,511 - discord.client - INFO - logging in using static token
+2025-07-02 15:19:53,233 - bot - INFO - Synced 6 slash commands
+2025-07-02 15:19:53,530 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3e2d8a832fa9a17bc715af36629c0ec5).
+2025-07-02 15:19:55,536 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 15:19:55,536 - bot - INFO - Bot is in 1 guilds
+2025-07-02 15:19:55,600 - bot - INFO - Registered guild: Cheon Bu (ID: 912121671815688243)
+2025-07-02 15:41:00,952 - __main__ - INFO - Starting Discord Voice Nickname Bot...
+2025-07-02 15:41:00,953 - discord.client - INFO - logging in using static token
+2025-07-02 15:41:02,044 - bot - INFO - Synced 6 slash commands
+2025-07-02 15:41:02,396 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b03b2a37f5c822a5e99b61c4c7041d90).
+2025-07-02 15:41:04,401 - bot - INFO - Temporary Anonymous Nicknaming#8528 has connected to Discord!
+2025-07-02 15:41:04,402 - bot - INFO - Bot is in 1 guilds
+2025-07-02 15:41:04,469 - bot - INFO - Registered guild: Cheon Bu (ID: 912121671815688243)
